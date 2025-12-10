@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gmail-mcp": {
+      "command": "poetry",
+      "args": ["run", "mcp-server-email"]
+    }
+  }
+}
