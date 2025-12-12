@@ -180,20 +180,6 @@ Creates a professional FOI receipt draft for a request, using team and officer d
   - Claude calls `find_best_team_for_subject` to pick the best team
   - Claude calls `compose-draft` with all details to generate a professional FOI receipt draft
 
-
-## Stretch Goals
-
-This implementation can be enhanced with:
-
-1. **Email Templates**: Add reply templates from Notion for consistent responses
-2. **Style Guide**: Integrate with Google Docs for email style guidelines
-3. **Knowledge Base**: Pull context from local files or Obsidian vault for intelligent replies
-4. **Email Scheduling**: Queue drafts for scheduled sending
-5. **Attachment Handling**: Support downloading and analyzing attachments
-6. **Sentiment Analysis**: Analyze email sentiment to suggest reply tone
-7. **Priority Filtering**: Identify priority emails using custom labels or ML
-8. **Multi-account Support**: Handle multiple Gmail accounts
-
 ## License
 
 MIT License - See LICENSE file for details
