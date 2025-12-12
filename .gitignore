@@ -1,3 +1,10 @@
+# Claude Desktop config
+claude_desktop_config.json
+# FOI and sensitive data
+Camden_Freedom_Of_Information_Responses_Search_*.csv
+foi_team_mapping.csv
+foi_team_contacts.csv
+
 # Python
 __pycache__/
 *.py[cod]

@@ -1,11 +1,15 @@
+
 {
   "mcpServers": {
     "mcp-server-email": {
       "command": "C:/Users/Student/AppData/Local/pypoetry/Cache/virtualenvs/mcp-server-email-CEWig_us-py3.14/Scripts/python.exe",
       "args": [
-        "src/server.py"
+        "C:/Users/Student/Documents/mcp-server-email/src/server.py"
       ],
-      "cwd": "C:/Users/Student/Documents/mcp-server-email"
+      "cwd": "C:/Users/Student/Documents/mcp-server-email",
+      "env": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:/Users/Student/Documents/mcp-server-email/src/credentials.json"
+      }
     }
   }
 }
