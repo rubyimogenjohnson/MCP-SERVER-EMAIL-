@@ -1,0 +1,14 @@
+{
+   "mcpServers": {
+      "mcp-server-email": {
+         "command": "/path/to/your/virtualenv/bin/python",
+         "args": [
+            "/path/to/your/mcp-server-email/src/server.py"
+         ],
+         "cwd": "/path/to/your/mcp-server-email",
+         "env": {
+            "GOOGLE_APPLICATION_CREDENTIALS": "/path/to/your/mcp-server-email/src/credentials.json"
+         }
+      }
+   }
+}

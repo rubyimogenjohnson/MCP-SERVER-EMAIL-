@@ -71,7 +71,9 @@ Place the following CSV files in the project root (examples below):
 - `foi_team_mapping.csv` (maps subject keywords to teams/officers)
 - `foi_team_contacts.csv` (maps teams to officer emails)
 
-#### Example: Camden_Freedom_Of_Information_Responses_Search_20251211.csv
+#### Example: camden_foi_responses.csv
+
+Download from [https://opendata.camden.gov.uk/Your-Council/Camden-Freedom-Of-Information-Responses-Search/fkj6-gqb4/about_data]
 
 ```
 Identifier,Date,Document Title,Document Text,Document Link

@@ -1,7 +1,8 @@
 # Claude Desktop config
 claude_desktop_config.json
+!claude_desktop_config_example.json
 # FOI and sensitive data
-Camden_Freedom_Of_Information_Responses_Search_*.csv
+camden_foi_responses*.csv
 foi_team_mapping.csv
 foi_team_contacts.csv
 
